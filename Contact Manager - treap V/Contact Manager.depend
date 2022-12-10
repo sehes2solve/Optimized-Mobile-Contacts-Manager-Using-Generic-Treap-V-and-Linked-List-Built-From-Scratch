@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1556989190 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager\main.cpp
+	<iostream>
+	<fstream>
+	"ContactManager.h"
+
+1556987330 d:\2nd semister grade 2\data structures\assignment\a4\contact manager\include\contactmanager.h
+	<cstring>
+	<fstream>
+	"Contact.h"
+
+1556966704 d:\2nd semister grade 2\data structures\assignment\a4\contact manager\include\contact.h
+	"LinkedList.h"
+	"algorithm"
+	"..\src\LinkedList.cpp"
+
+1556966704 d:\2nd semister grade 2\data structures\assignment\a4\contact manager\include\linkedlist.h
+	<iostream>
+	<string>
+
+1556967543 d:\2nd semister grade 2\data structures\assignment\a4\contact manager\src\linkedlist.cpp
+	"LinkedList.h"
+
+1556966734 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager\src\contact.cpp
+	"Contact.h"
+
+1556988062 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager\src\contactmanager.cpp
+	"ContactManager.h"
+
+1556967543 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager\src\linkedlist.cpp
+	"LinkedList.h"
+
+1557050205 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\main.cpp
+	<iostream>
+	<fstream>
+	"ContactManager.h"
+
+1557044424 d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\include\contactmanager.h
+	<cstring>
+	<fstream>
+	"Contact.h"
+	"Treap.h"
+	"..\src\Treap.cpp"
+
+1556966704 d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\include\contact.h
+	"LinkedList.h"
+	"algorithm"
+	"..\src\LinkedList.cpp"
+
+1556966704 d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\include\linkedlist.h
+	<iostream>
+	<string>
+
+1556967543 d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\src\linkedlist.cpp
+	"LinkedList.h"
+
+1557043205 d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\include\treap.h
+	<iostream>
+
+1557050364 d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\src\treap.cpp
+	<random>
+	<stack>
+	<queue>
+	<ctime>
+	"Treap.h"
+
+1556966734 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\src\contact.cpp
+	"Contact.h"
+
+1557044529 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\src\contactmanager.cpp
+	"ContactManager.h"
+
+1556967543 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\src\linkedlist.cpp
+	"LinkedList.h"
+
+1557050178 source:d:\2nd semister grade 2\data structures\assignment\a4\contact manager - treap v\src\treap.cpp
+	<random>
+	<stack>
+	<queue>
+	<ctime>
+	"Treap.h"
+
